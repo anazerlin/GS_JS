@@ -40,8 +40,6 @@ document.addEventListener("DOMContentLoaded", function() {
   });
 });
 
-
-
 var notifEmailForm = document.forms.notifEmail;
 
 notifEmailForm.addEventListener("submit", function (event) {
@@ -57,11 +55,6 @@ notifEmailForm.addEventListener("submit", function (event) {
     alert("Por favor, insira seu e-mail.");
   }
 });
-
-
-
-
-
 
 
 function validarFormulario() {
