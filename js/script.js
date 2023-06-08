@@ -42,11 +42,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
-
-
-
-
-
 var notifEmailForm = document.forms.notifEmail;
 
 notifEmailForm.addEventListener("submit", function (event) {
