@@ -56,7 +56,6 @@ notifEmailForm.addEventListener("submit", function (event) {
   }
 });
 
-
 function validarFormulario() {
   var nome = document.forms.cadastro.nome.value;
   var email = document.forms.cadastro.email.value;
