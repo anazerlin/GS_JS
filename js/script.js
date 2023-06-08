@@ -19,10 +19,6 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 
-
-
-
-
 document.addEventListener("DOMContentLoaded", function() {
   var loginForm = document.forms.login;
 
